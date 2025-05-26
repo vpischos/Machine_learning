@@ -1,1 +1,1 @@
-# Machine_learning
+This project explores the application of machine learning algorithms to predict the energy use of appliances based on sensor data. In this project we implement 2 gradient boosting methods (Gradient Boosting Machines, XGBoost), 2 deep learning methods (LSTM, GRU), and a Transformer, in order to understand the utilization of deep learning and attention models in time series forecasting. The project was a team effort (2 students) and was written in python. It includes evaluation and metrics for all the machine learning methods used in the task.
